@@ -1,0 +1,34 @@
+.clear_custom_fields, #button_save {
+	font-size: 13px;
+	line-height: 2.15384615;
+	min-height: 30px;
+	margin: 0;
+	padding: 0 10px;
+	cursor: pointer;
+	border-radius: 3px;
+	color: #2271b1;
+	border: solid 1px #2271b1;
+	background: #f6f7f7;
+	margin: 20px auto;
+	width: 120px;
+	display: inline-block;
+	text-align: center;
+} 
+..clear_custom_fields {
+	margin-left: 162px;
+}
+#_creating_date {
+	float: left;
+}
+.woocommerce_options_panel div.form-field {
+  padding: 5px 20px 5px 162px !important;
+}
+.custom_button {
+	margin-left: 10px;
+}
+.clear_custom_fields {
+	margin-right: 10px;
+}
+#custom_img_block img {
+	margin-bottom: 8px;
+}
